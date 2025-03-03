@@ -2,7 +2,7 @@ class Fig2img < Formula
   desc "A tool to convert Figma files to images"
   homepage "https://github.com/geonhyeoklee/fig2img"
   url "https://github.com/geonhyeoklee/fig2img/releases/download/v0.0.1/fig2img-macos-0.0.1.tar.gz"
-  sha256 "520721f194306ab24e2611e0b7e3cb6068323eb0595acf04732ed9ae11506891"
+  sha256 "32da3ee847df74a6564c99eac17ef624ef57b25ff0c551812822b17ad7c39fe9"
   version "0.0.1"
 
   def install
